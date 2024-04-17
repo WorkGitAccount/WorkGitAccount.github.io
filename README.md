@@ -8,6 +8,6 @@ Contributor and collaborator on pyMGM a python port of the [Meshfree Geometric M
 
 Checkout my profile:
 
-[View my github profile with various projects](https://github.com/WorkGitAccount) 
+[View my github profile](https://github.com/WorkGitAccount) 
 
 
